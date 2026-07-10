@@ -38,7 +38,7 @@ The USA produces the most content with 2,818 titles — more than double the nex
 <img width="407" height="298" alt="Screenshot 2026-07-10 at 19 45 45" src="https://github.com/user-attachments/assets/17787c75-5e8a-4154-9ff1-497c12b2fb40" />
 
 ### Top Genres
-When looking at the genres we can see that Dramas,International Movies was one of the top genres that Netflix had to offer 
+When looking at genre tag combinations, 'Dramas, International Movies' was the single most common pairing on Netflix, appearing 362 times.
 
 <img width="548" height="326" alt="Screenshot 2026-07-10 at 19 47 09" src="https://github.com/user-attachments/assets/de87ec42-72e8-46c2-a3b8-6cccd78b3f2e" />
 
