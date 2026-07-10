@@ -39,6 +39,7 @@ The USA produces the most content with 2,818 titles — more than double the nex
 
 ### Top Genres
 When looking at the genres we can see that Dramas,International Movies was one of the top genres that Netflix had to offer 
+
 <img width="548" height="326" alt="Screenshot 2026-07-10 at 19 47 09" src="https://github.com/user-attachments/assets/de87ec42-72e8-46c2-a3b8-6cccd78b3f2e" />
 
 ### Content over time 
