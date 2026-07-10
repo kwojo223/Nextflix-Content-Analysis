@@ -45,3 +45,8 @@ When looking at genre tag combinations, 'Dramas, International Movies' was the s
 ### Content over time 
 Content additions grew rapidly from 2016 onward, peaking in 2019, before additions declined in 2020 and 2021, which lines up with the COVID-19 pandemic — though the data itself doesn't confirm this is the cause.
 <img width="812" height="304" alt="Screenshot 2026-07-10 at 19 46 24" src="https://github.com/user-attachments/assets/b16164e3-6bde-46fb-a748-b70708a31c2e" />
+
+## How to Run This Project
+1. Clone the repo: `git clone https://github.com/kwojo223/Nextflix-Content-Analysis.git`
+2. Install dependencies: `pip install pandas matplotlib seaborn`
+3. Open the notebook in `notebooks/` and run all cells to reproduce the analysis and charts
